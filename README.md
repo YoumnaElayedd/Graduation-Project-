@@ -1,4 +1,5 @@
-Text Summarization Project — Extractive & Abstractive Methods
+*Text Summarization Project — Extractive & Abstractive Methods*
+
 This repository contains my graduation project, where I explored and implemented both extractive and abstractive text summarization techniques. The goal of the project was to build systems capable of generating concise and meaningful summaries from longer text documents.
 
 📚 Project Overview
